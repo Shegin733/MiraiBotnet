@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "478697791471",
+    "firebase_url": "https://mirai-b3e56-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mirai-b3e56",
+    "storage_bucket": "mirai-b3e56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478697791471:android:5f3e2c957072d193e1201a",
+        "android_client_info": {
+          "package_name": "com.example.mirai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArX3ve_034gtLvER_zCwC05yp_n0vMV7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
