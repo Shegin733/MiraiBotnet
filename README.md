@@ -10,12 +10,12 @@ The attack on Dyn resulted in widespread outages, temporarily taking down popula
 
 ## Botnet Detection 
 The python tool has simple Tkinter framework,the tool is able to
-- 1)provide detailed report on network analysis 
-- 2)able to send Emails upon botnet detection
-- 3)capture live packets incoming and outgoing in a network and analyze it ,this operation is performed at an instance and may require further advanced programming for purpose of continous sniffing in a live environment
-- 4)Checks for already captured network PCAP files for presence of mirai botnet(Mirai presence pcap file is [ given in ](https://github.com/Shegin733/MiraiBotnet/blob/master/mirai_python_tool/MiraiTraffic.pcap)
-- 5) Downloads PDF of network analysis
-- 6)Send state of network to Firebase realtime database
+- provide detailed report on network analysis 
+- able to send Emails upon botnet detection
+- capture live packets incoming and outgoing in a network and analyze it ,this operation is performed at an instance and may require further advanced programming for purpose of continous sniffing in a live environment
+- Checks for already captured network PCAP files for presence of mirai botnet(Mirai presence pcap file is [ given in ](https://github.com/Shegin733/MiraiBotnet/blob/master/mirai_python_tool/MiraiTraffic.pcap)
+- Downloads PDF of network analysis
+- Send state of network to Firebase realtime database
 ## Simulated IoT Environment
 The simulated IoT environment is created by a ESP8266 Microcontroller connected to a light bulb and buzzer,the 
 microcontroller is able to recieve commands from app via Firebase realtime database system to turn on and off the bulb , buzzer will be activated  in presence of mirai so as to shut the effected IoT network,the buzzer will
