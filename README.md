@@ -29,9 +29,6 @@ The Flutter Mobile smart app is build for smart control of light,it's able to se
 the app is able to recieve commands from python tool regarding network status and create alert based on it,on identifying potential threat of Mirai it activates the buzzer alarm and a warning notification is displayed.
 
 
-# Mirai Botnet Detection — Setup Guide
-
-This guide supplements the repository's existing `README.md`; it does not replace it. The project is an educational prototype that explores network-traffic analysis, a Decision Tree classifier, Firebase status reporting, a Flutter control/alert app, and an ESP8266 LED-and-buzzer simulation.
 
 > **Safety and scope:** Use only the included sample PCAP files or traffic from a lab/network you own or have explicit permission to monitor. Do not use this prototype as a production security product or as proof that a device is safe. It is not a validated continuous monitoring system. Never connect experimental circuits directly to mains voltage.
 
