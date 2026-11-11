@@ -3,6 +3,10 @@ In October 2016, the Mirai botnet launched a significant distributed denial of s
 Although DDoS attacks have existed since the early days of the internet, this incident highlighted how IoT devices could be harnessed to form botnets and disrupt major online services. 
 The attack on Dyn resulted in widespread outages, temporarily taking down popular platforms like Twitter, Netflix, Spotify, GitHub, Airbnb, and more, underscoring the vulnerabilities in modern internet infrastructure.
 
+https://github.com/user-attachments/assets/c6e4b109-8e9d-416f-b9b0-50b69c0b057a
+
+
+
 ## What's Inside?
 1) A python tool is developed which identifies Mirai botnet based on the ip address,using machine learned patterns from the ip address earlier identified at attack scenarios,Decision Tree Classifier
    Algorithm  is used for model creation.[⇗](https://github.com/Shegin733/MiraiBotnet/tree/master/mirai_python_tool)
